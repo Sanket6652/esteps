@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655654407401",
+    "project_id": "estep-4a3d5",
+    "storage_bucket": "estep-4a3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655654407401:android:3dc29fe94a60d043d77478",
+        "android_client_info": {
+          "package_name": "com.example.esteps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655654407401-q7hpu5n8mq43otv37fc5edc9t8aplmvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOY3mY0pm9BX1DeyumuIVUIgS9aH_pJL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655654407401-q7hpu5n8mq43otv37fc5edc9t8aplmvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
